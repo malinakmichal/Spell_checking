@@ -18,3 +18,5 @@ This repository contains a test dataset and a Python script for analysis of meth
 ### Usage
 1. **Clone the repository**:
    git clone https://github.com/malinakmichal/Spell_checking.git
+   pip install -r requirements.txt
+   python script.pys
