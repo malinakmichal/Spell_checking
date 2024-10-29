@@ -2,12 +2,14 @@
 
 ## Overview
 This repository contains a test dataset and a Python script for analysis of methods used to correct spelling error. It includes:
-- A test dataset used for evaluating spelling errors
 - A Python script for analyzing and testing mutliple methods for the correction of spelling errors.
+- A Python Jupyter notebook same as the Python script but includes explanations of the code and the approach.
+- A test dataset used for evaluating spelling errors
 
 ## Contents
-- `GTD.xlsx`: test dataset sourced from the paper "Evaluating the Performance of Different Grammar Checking Tools"
+- `script.py`: Evaluation script.
 - `spell_check.ipynb`: The main Python Jupyter notebook file that loads the dataset and performs analysis.
+- `GTD.xlsx`: Test dataset sourced from the paper "Evaluating the Performance of Different Grammar Checking Tools".
 
 ### Requirements
 - Python 3.9
